@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="doctomeet.list.LinkedListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-21T20:29:54" hostname="TXRMM-JX264J3" time="0.038">
+  <properties/>
+  <testcase name="testAdd()" classname="doctomeet.list.LinkedListTest" time="0.03"/>
+  <testcase name="testRemoveMissing()" classname="doctomeet.list.LinkedListTest" time="0.003"/>
+  <testcase name="testRemove()" classname="doctomeet.list.LinkedListTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="doctomeet.list.LinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

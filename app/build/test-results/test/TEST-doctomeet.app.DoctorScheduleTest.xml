@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="doctomeet.app.DoctorScheduleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-09-21T21:35:57" hostname="TXRMM-JX264J3" time="1.129">
+  <properties/>
+  <testcase name="testGetAvailableSlotsForDateWithMultipleOpeningsAndAppointments()" classname="doctomeet.app.DoctorScheduleTest" time="1.098"/>
+  <testcase name="testGetAvailableSlotsWithMultipleOpeningsAndAppointments()" classname="doctomeet.app.DoctorScheduleTest" time="0.007"/>
+  <testcase name="testGetAvailableSlotsForDate()" classname="doctomeet.app.DoctorScheduleTest" time="0.006"/>
+  <testcase name="testGetAvailableSlots()" classname="doctomeet.app.DoctorScheduleTest" time="0.005"/>
+  <testcase name="testGetAvailableSlotsForDateWithNoOpenings()" classname="doctomeet.app.DoctorScheduleTest" time="0.005"/>
+  <testcase name="testGetAvailableSlotsWithNoOpenings()" classname="doctomeet.app.DoctorScheduleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
